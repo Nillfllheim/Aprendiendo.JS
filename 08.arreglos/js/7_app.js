@@ -26,3 +26,9 @@ resultado = [...resultado, producto2]
 
 
 console.table(carrito)
+
+//eliminar el ultimo elemento de un arreglo
+
+carrito.pop()
+
+console.table(carrito)
