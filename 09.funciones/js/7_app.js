@@ -15,6 +15,6 @@ function segundaFuncion(){
 }
 
 function usuarioAutenticado(usuario){
-    console.log('Autenticando uduario.. espere...')
+    console.log('Autenticando usuario.. espere...')
     console.log(`Usuario autenticado Exitosamente: ${usuario}`)
 }
